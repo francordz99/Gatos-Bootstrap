@@ -1,0 +1,49 @@
+.navbar {
+    background-color: rgb(96, 101, 112);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-toggler {
+    color: #ffffff;
+}
+
+.nav-link.active {
+    color: #ffffff;
+}
+
+.row.text-center.my-5 {
+    display: none;
+}
+
+.card {
+    width: 100%;
+}
+
+.card .card-body {
+    padding: 1rem;
+}
+
+.card .card-body .text-dark {
+    color: #000000;
+}
+
+.row.justify-content-center.align-items-center {
+    text-align: justify;
+}
+
+.col-12.col-md-6.col-lg-4.my-2 {
+    margin-top: 2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h4#text-carousel {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
